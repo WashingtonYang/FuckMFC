@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Comment CommentText="定义初始数组&#xD;&#xA;判断是否为冒泡排序&#xD;&#xA;记录单步次数&#xD;&#xA;冒泡排序的首索引&#xD;&#xA;选择排序的首索引&#xD;&#xA;快排的右索引&#xD;&#xA;某种排序的标志&#xD;&#xA;单步或直接开始标志&#xD;&#xA;排序的最后的索引&#xD;&#xA;数组的长度&#xD;&#xA;&#xD;&#xA;快排的左索引&#xD;&#xA;快排的最小值的索引&#xD;&#xA;冒泡排序的数组&#xD;&#xA;快排的数组&#xD;&#xA;选择排序的数组&#xD;&#xA;一次快排中的返回值&#xD;&#xA;&#xD;&#xA;是否执行快排的标志&#xD;&#xA;是否选择排序标志&#xD;&#xA;睡眠时间&#xD;&#xA;">
+    <Position X="2.058" Y="2.141" Height="3.675" Width="1.383" />
+  </Comment>
+  <Comment CommentText="传递初始化数组值到排序数组&#xD;&#xA;传递排序的值到初始化的值&#xD;&#xA;">
+    <Position X="2.383" Y="6.25" Height="0.475" Width="2.025" />
+  </Comment>
+  <Comment CommentText="将传入的值画出来">
+    <Position X="2.392" Y="6.816" Height="0.284" Width="1.7" />
+  </Comment>
+  <Comment CommentText="将数字覆盖又重画">
+    <Position X="2.95" Y="7.158" Height="0.284" Width="1.7" />
+  </Comment>
+  <Comment CommentText="冒泡排序&#xD;&#xA;描写初始化数字">
+    <Position X="2.567" Y="7.742" Height="0.45" Width="1.7" />
+  </Comment>
+  <Comment CommentText="获取10个随机数">
+    <Position X="2.525" Y="8.275" Height="0.284" Width="1.7" />
+  </Comment>
+  <Comment CommentText="快排消息&#xD;&#xA;选择排序消息&#xD;&#xA;直接开始排序消息&#xD;&#xA;单步开始排序消息">
+    <Position X="2.442" Y="8.641" Height="0.842" Width="1.7" />
+  </Comment>
+  <Comment CommentText="定时器，写了冒泡和选择排序&#xD;&#xA;快速排序&#xD;&#xA;">
+    <Position X="3.142" Y="9.383" Height="0.408" Width="1.9" />
+  </Comment>
+  <Comment CommentText="根据传入的人gb和坐标画图&#xD;&#xA;">
+    <Position X="3.625" Y="9.775" Height="0.284" Width="1.767" />
+  </Comment>
+  <Comment CommentText="交换排序时的值，并将修改数字画出来">
+    <Position X="2.833" Y="10.358" Height="0.284" Width="1.7" />
+  </Comment>
+  <Class Name="CYYX_TEST1_3View">
+    <Position X="0.5" Y="1.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEQEBAFAAAAIiIHAiAoAggASSwAgAQxIAAJIA0g=</HashCode>
+      <FileName>YYX_TEST1_3View.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CYYX_TEST1_3Doc">
+    <Position X="4.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAACAAAgAAgASggAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>YYX_TEST1_3Doc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CYYX_TEST1_3App">
+    <Position X="4.75" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAABAAAAAAQAAAABAAAAAAA=</HashCode>
+      <FileName>YYX_TEST1_3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAboutDlg">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_0003_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>YYX_TEST1_3.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>YYX_TEST1_3.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame">
+    <Position X="8.25" Y="1.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAACAAAiAAAgCAAAgAAAAAAAAAAABA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

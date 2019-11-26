@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="主要展示界面">
+    <Position X="5.258" Y="2.55" Height="0.284" Width="1.617" />
+  </Comment>
+  <Comment CommentText="查询会员的类">
+    <Position X="0.792" Y="5.308" Height="0.284" Width="1.617" />
+  </Comment>
+  <Comment CommentText="修改会员的类">
+    <Position X="0.717" Y="3.992" Height="0.284" Width="1.617" />
+  </Comment>
+  <Comment CommentText="添加会员的类">
+    <Position X="0.767" Y="2.55" Height="0.284" Width="1.617" />
+  </Comment>
+  <Class Name="CAdd" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIAQgACAAABQAEABAiAAAAAAAAAAAAAgAASUAAAAA=</HashCode>
+      <FileName>Add.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFix" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAQCAAAAQAIQDAiAAAAAAAAAAAAAAAAQEAAAAA=</HashCode>
+      <FileName>Fix.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSearch" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQgACAAAAQAIABAigAAAAAAAAABAAAAAQUAAAAA=</HashCode>
+      <FileName>Search.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>YYX_TEST2_1.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CYYX_TEST2_1View" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAABQgQCoAgQQAAGBAiiIAGwBAOAAYAACgIREACAAA=</HashCode>
+      <FileName>YYX_TEST2_1View.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialogEx" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAACAAEAAAiAACCCBEBQAAAAAAEAIACCgQAAAAI=</HashCode>
+      <FileName>e:\vs2019\vs2019\vc\atlmfc\include\afxdialogex.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
